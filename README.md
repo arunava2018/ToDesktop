@@ -1,22 +1,22 @@
-# ToDesktop Clone
+# 🖥️ ToDesktop Clone
 
 A clone of the [ToDesktop](https://www.todesktop.com/) website built using Tailwind CSS and JavaScript.
 
-## About
+## ℹ️ About
 
 This project is a clone of the ToDesktop website, which allows users to convert web applications into desktop applications. The clone is built using Tailwind CSS for styling and JavaScript for interactivity.
 
-## Features
+## ✨ Features
 
 - Responsive design
 - Convert web applications into desktop applications
 - Easy-to-use interface
 
-## Demo
+## 🚀 Demo
 
 [Link to live demo](https://incandescent-boba-e1b1b0.netlify.app/)
 
-## Installation
+## 🔧 Installation
 
 To install and run this project locally, follow these steps:
 
@@ -24,14 +24,14 @@ To install and run this project locally, follow these steps:
 2. Navigate into the project directory.
 3. Open the `index.html` file in your web browser.
 
-## Usage
+## 🛠️ Usage
 
 1. Enter the URL of the web application you want to convert into a desktop application.
 2. Customize the settings (e.g., window size, icon, etc.).
 3. Click the "Convert" button.
 4. Follow the instructions to download and install the desktop application.
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! To contribute to this project, follow these steps:
 
@@ -44,6 +44,6 @@ Contributions are welcome! To contribute to this project, follow these steps:
 
 Please make sure to update tests as appropriate.
 
-## License
+## 📝 License
 
 This project is licensed under the [MIT License](LICENSE).
